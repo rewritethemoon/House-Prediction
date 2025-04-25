@@ -8,7 +8,19 @@ Dự án dự đoán giá nhà tại TP.HCM dựa trên dữ liệu được cra
 
 ## 📁 Cấu trúc thư mục
 
-├── Báo_cáo_Đồ_án_NMKHDL.pdf # Báo cáo PDF ├── Crawling.ipynb # Notebook cào dữ liệu từ website ├── Data.zip # File chứa dữ liệu crawl và xử lý ├── Ghep_data.ipynb # Gộp dữ liệu từ nhiều nguồn ├── LLM.ipynb # Trích xuất thông tin từ mô tả bằng LLM ├── Methodology.ipynb # Phương pháp mô hình hóa và đánh giá ├── Preprocessing_and_FeatureEngineering.ipynb # Xử lý và tạo đặc trưng ├── data_crawl.csv # Dữ liệu thô sau khi crawl ├── data_final.csv # Dữ liệu đã xử lý cuối cùng ├── data_hcm_llm.csv # Dữ liệu từ LLM ├── website.png # Ảnh minh họa website crawl
+.
+├── Báo_cáo_Đồ_án_NMKHDL.pdf          # Báo cáo chi tiết
+├── Crawling.ipynb                    # Thu thập dữ liệu từ web
+├── Data.zip                          # Dữ liệu thô và đã xử lý
+├── Ghep_data.ipynb                   # Gộp dữ liệu từ nhiều nguồn
+├── LLM.ipynb                        # Trích xuất đặc trưng bằng LLM
+├── Methodology.ipynb                 # Đánh giá và huấn luyện mô hình
+├── Preprocessing_and_FeatureEngineering.ipynb  # Tiền xử lý dữ liệu
+├── data_crawl.csv                    # Dữ liệu thô sau khi crawl
+├── data_final.csv                    # Dữ liệu đã xử lý hoàn chỉnh
+├── data_hcm_llm.csv                  # Dữ liệu từ LLM
+├── requirements.txt                  # Thư viện cần thiết
+└── website.png                       # Ảnh minh họa
 
 yaml
 Sao chép
