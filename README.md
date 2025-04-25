@@ -70,4 +70,4 @@ Dự án dự đoán giá nhà tại TP.HCM dựa trên dữ liệu crawl từ b
 - File Data.zip chứa dữ liệu cần thiết để chạy các notebook.
 
 ## Liên hệ
-Nếu có thắc mắc, vui lòng mở issue trên GitHub hoặc liên hệ qua email@example.com.
+Nếu có thắc mắc, vui lòng mở issue trên GitHub hoặc liên hệ qua 22280040@student.hcmus.edu.vn
